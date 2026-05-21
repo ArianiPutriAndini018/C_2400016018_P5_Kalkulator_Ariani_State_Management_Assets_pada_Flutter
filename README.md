@@ -269,15 +269,10 @@ Pengujian dilakukan untuk memastikan setiap fitur pada aplikasi berjalan dengan 
 
 Halaman Profile Card menampilkan foto profil, nama lengkap, jurusan, dan status mahasiswa.
 
-![Tampilan Profile Card](docs/profile-card.png)
 
 ### Halaman Kalkulator Sederhana
 
 Halaman Kalkulator Sederhana menampilkan dua input angka, empat tombol operasi, dan hasil perhitungan.
-
-![Tampilan Kalkulator](docs/kalkulator.png)
-
-> Jika folder `docs` belum tersedia, gambar tampilan aplikasi dapat ditambahkan setelah screenshot diunggah ke repository.
 
 ---
 
